@@ -12,9 +12,9 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ## 🛠️ Skills Overview
 
-| Category             | Technologies & Concepts                                         |
-| :------------------- | :-------------------------------------------------------------- |
-| **Languages** | <div style="margin-bottom: 10px;"> <strong>Python</strong>
+### 📊 Language Proficiency / Usage
+
+<div style="margin-bottom: 10px;"> <strong>Python</strong>
   <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;"> <div style="background-color: #007bff; width: 85%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
       85% </div>
   </div>
@@ -54,7 +54,10 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
       75%
     </div>
   </div>
-</div>                                       |
+</div>
+
+| Category             | Technologies & Concepts                                         |
+| :------------------- | :-------------------------------------------------------------- |     
 | **Data Science & ML**| Pandas, NumPy, Scikit-learn (GMM, RandomForest), Geopy, GeoPandas, fbprophet, Regression Analysis, Clustering |
 | **Databases** | PostgreSQL (Basic)                                            |
 | **Engineering & Sim**| ANSYS, Minitab, Design of Experiments (Taguchi), Vibration Analysis |
