@@ -4,7 +4,7 @@ author_profile: true
 ---
 # Welcome To My Portfolio! 👨‍💻
 
-*(Optional: Add a brief 2-3 sentence introduction here. Who are you? What are your key interests or career goals? e.g., "I'm Suleman, passionate about leveraging data analysis and machine learning techniques to solve complex problems, with a background in Mechanical Engineering. This portfolio showcases some of my key projects.")*
+* "I'm Suleman, passionate about leveraging data analysis and machine learning techniques to solve complex problems, with a background in Mechanical Engineering. This portfolio showcases some of my key projects.")*
 
 Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sules)
 
@@ -15,44 +15,44 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 ### 📊 Language Proficiency / Usage
 
 <style>
-  .skill-bar-container { margin-bottom: 8px; font-size: 10px; } /* Reduced margin and font size */
-  .skill-bar-bg { background-color: #e9ecef; border-radius: 3px; height: 12px; width: 80%; } /* Smaller height and width, smaller border-radius */
-  .skill-bar { height: 100%; border-radius: 3px; line-height: 12px; color: white; text-align: center; } /* Adjusted line-height and border-radius */
+  .skill-bar-container { margin-bottom: 8px; font-size: 10px; } /* Reduced margin and font size */
+  .skill-bar-bg { background-color: #e9ecef; border-radius: 3px; height: 12px; width: 80%; } /* Smaller height and width, smaller border-radius */
+  .skill-bar { height: 100%; border-radius: 3px; line-height: 12px; color: white; text-align: center; } /* Adjusted line-height and border-radius */
 </style>
 
 <div class="skill-bar-container">
-  <strong>Python</strong>
-  <div class="skill-bar-bg">
-    <div class="skill-bar" style="background-color: #007bff; width: 85%;">85%</div>
-  </div>
+  <strong>Python</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #007bff; width: 85%;">85%</div>
+  </div>
 </div>
 
 <div class="skill-bar-container">
-  <strong>JavaScript</strong>
-  <div class="skill-bar-bg">
-    <div class="skill-bar" style="background-color: #f0db4f; color: #323330; width: 60%;">60%</div>
-  </div>
+  <strong>JavaScript</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #f0db4f; color: #323330; width: 60%;">60%</div>
+  </div>
 </div>
 
 <div class="skill-bar-container">
-  <strong>R</strong>
-  <div class="skill-bar-bg">
-    <div class="skill-bar" style="background-color: #276DC3; width: 70%;">70%</div>
-  </div>
+  <strong>R</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #276DC3; width: 70%;">70%</div>
+  </div>
 </div>
 
 <div class="skill-bar-container">
-  <strong>SQL</strong>
-  <div class="skill-bar-bg">
-    <div class="skill-bar" style="background-color: #CC2927; width: 65%;">65%</div>
-  </div>
+  <strong>SQL</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #CC2927; width: 65%;">65%</div>
+  </div>
 </div>
 
 <div class="skill-bar-container">
-  <strong>MATLAB</strong>
-  <div class="skill-bar-bg">
-    <div class="skill-bar" style="background-color: #0076A8; width: 75%;">75%</div>
-  </div>
+  <strong>MATLAB</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #0076A8; width: 75%;">75%</div>
+  </div>
 </div>
 
 
