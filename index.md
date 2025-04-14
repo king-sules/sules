@@ -15,7 +15,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 ### 📊 Language Proficiency / Usage
 
 <div style="margin-bottom: 10px;"> <strong>Python</strong>
-  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;"> <div style="background-color: #007bff; width: 85%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
+  <div style="background-color: #e9ecef; border-radius: 3px; height: 10px; width: 50%;"> <div style="background-color: #007bff; width: 85%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
       85% </div>
   </div>
 </div>
