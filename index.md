@@ -14,47 +14,47 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ### 📊 Language Proficiency / Usage
 
-<div style="margin-bottom: 10px;"> <strong>Python</strong>
-  <div style="background-color: #e9ecef; border-radius: 3px; height: 10px; width: 50%;"> <div style="background-color: #007bff; width: 85%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
-      85% </div>
+<style>
+  .skill-bar-container { margin-bottom: 8px; font-size: 10px; } /* Reduced margin and font size */
+  .skill-bar-bg { background-color: #e9ecef; border-radius: 3px; height: 12px; width: 80%; } /* Smaller height and width, smaller border-radius */
+  .skill-bar { height: 100%; border-radius: 3px; line-height: 12px; color: white; text-align: center; } /* Adjusted line-height and border-radius */
+</style>
+
+<div class="skill-bar-container">
+  <strong>Python</strong>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #007bff; width: 85%;">85%</div>
   </div>
 </div>
 
-<div style="margin-bottom: 10px;">
+<div class="skill-bar-container">
   <strong>JavaScript</strong>
-  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
-    <div style="background-color: #f0db4f; color: #323330; width: 60%; height: 100%; border-radius: 5px; line-height: 20px; text-align: center; font-size: 12px;">
-      60%
-    </div>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #f0db4f; color: #323330; width: 60%;">60%</div>
   </div>
 </div>
 
-<div style="margin-bottom: 10px;">
+<div class="skill-bar-container">
   <strong>R</strong>
-  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
-    <div style="background-color: #276DC3; width: 70%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
-      70%
-    </div>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #276DC3; width: 70%;">70%</div>
   </div>
 </div>
 
-<div style="margin-bottom: 10px;">
+<div class="skill-bar-container">
   <strong>SQL</strong>
-  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
-    <div style="background-color: #CC2927; width: 65%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
-      65%
-    </div>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #CC2927; width: 65%;">65%</div>
   </div>
 </div>
 
-<div style="margin-bottom: 10px;">
+<div class="skill-bar-container">
   <strong>MATLAB</strong>
-  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
-    <div style="background-color: #0076A8; width: 75%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
-      75%
-    </div>
+  <div class="skill-bar-bg">
+    <div class="skill-bar" style="background-color: #0076A8; width: 75%;">75%</div>
   </div>
 </div>
+
 
 | Category             | Technologies & Concepts                                         |
 | :------------------- | :-------------------------------------------------------------- |     
