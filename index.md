@@ -14,7 +14,47 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 | Category             | Technologies & Concepts                                         |
 | :------------------- | :-------------------------------------------------------------- |
-| **Languages** | Python, R, SQL, MATLAB                                        |
+| **Languages** | <div style="margin-bottom: 10px;"> <strong>Python</strong>
+  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;"> <div style="background-color: #007bff; width: 85%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
+      85% </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <strong>JavaScript</strong>
+  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
+    <div style="background-color: #f0db4f; color: #323330; width: 60%; height: 100%; border-radius: 5px; line-height: 20px; text-align: center; font-size: 12px;">
+      60%
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <strong>R</strong>
+  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
+    <div style="background-color: #276DC3; width: 70%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
+      70%
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <strong>SQL</strong>
+  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
+    <div style="background-color: #CC2927; width: 65%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
+      65%
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 10px;">
+  <strong>MATLAB</strong>
+  <div style="background-color: #e9ecef; border-radius: 5px; height: 20px; width: 100%;">
+    <div style="background-color: #0076A8; width: 75%; height: 100%; border-radius: 5px; line-height: 20px; color: white; text-align: center; font-size: 12px;">
+      75%
+    </div>
+  </div>
+</div>                                       |
 | **Data Science & ML**| Pandas, NumPy, Scikit-learn (GMM, RandomForest), Geopy, GeoPandas, fbprophet, Regression Analysis, Clustering |
 | **Databases** | PostgreSQL (Basic)                                            |
 | **Engineering & Sim**| ANSYS, Minitab, Design of Experiments (Taguchi), Vibration Analysis |
