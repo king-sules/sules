@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-
+# My Portfolio
 
 * "I'm Suleman, passionate about leveraging data analysis and machine learning techniques to solve complex problems, with a background in Mechanical Engineering. This portfolio showcases some of my key projects.")*
 
