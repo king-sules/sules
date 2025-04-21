@@ -67,7 +67,18 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ## Machine Learning
 
-### Project 1: Covid-19 Effects on Yellow Taxi in NYC
+### Project 1: DSPy-Powered Document Extraction with Gemini
+
+* Explored the use of **DSPy (Declarative Self-improving Python)** to programmatically optimize prompt engineering for **Google's Gemini model** in the context of extracting information from tax forms.
+* Developed a **Pydantic model** to ensure structured JSON output and defined a **DSPy signature** to guide the extraction process.
+* Evaluated the performance of the extraction using a custom metric, achieving **91% accuracy** with DSPy's **MIPROv2**.
+* Demonstrated the potential of DSPy to create robust prompts and its utility for handling complex extraction tasks, especially with the evolution of more capable LLMs.
+
+**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DSPy](https://img.shields.io/badge/DSPy-lightgrey?style=flat) ![Pydantic](https://img.shields.io/badge/Pydantic-%23e83d00.svg?style=flat&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%230047AB.svg?style=flat&logo=mlflow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+
+[View Notebook](Link-to-your-Jupyter-Notebook-on-GitHub)
+
+### Project 2: Covid-19 Effects on Yellow Taxi in NYC
 
 <img width="650" alt="NYC Borough Taxi Pickups/Dropoffs" src="https://user-images.githubusercontent.com/54907087/142779263-b1ac2b05-a04d-4aea-a0d0-13323740f9e1.png">
 
