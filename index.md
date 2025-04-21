@@ -55,13 +55,13 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 </div>
 
 
-| Category             | Technologies & Concepts                                         |
-| :------------------- | :-------------------------------------------------------------- |     
+| Category             | Technologies & Concepts                                       |
+| :------------------- | :------------------------------------------------------------ |
 | **Data Science & ML**| Pandas, NumPy, Scikit-learn (GMM, RandomForest), Geopy, GeoPandas, fbprophet, Regression Analysis, Clustering |
-| **Databases** | PostgreSQL (Basic)                                            |
+| **Databases** | PostgreSQL (Basic)                                            |
 | **Engineering & Sim**| ANSYS, Minitab, Design of Experiments (Taguchi), Vibration Analysis |
-| **Tools & Reporting**| Git, GitHub, Jupyter Notebooks, RStudio, LaTeX                 |
-| **Domains** | Machine Learning, Data Analysis, Mechanical Engineering          |
+| **Tools & Reporting**| Git, GitHub, Jupyter Notebooks, RStudio, LaTeX               |
+| **Domains** | Machine Learning, Data Analysis, Mechanical Engineering       |
 
 ---
 
