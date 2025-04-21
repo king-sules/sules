@@ -2,17 +2,16 @@
 layout: single
 author_profile: true
 ---
-# My Portfolio
 
-* "I'm Suleman, passionate about leveraging data analysis and machine learning techniques to solve complex problems, with a background in Mechanical Engineering. This portfolio showcases some of my key projects.")*
+* I'm Suleman, passionate about leveraging machine learning techniques to solve complex problems, with a background in Mechanical Engineering. This portfolio showcases some of my key projects and skillset in my different area of expertise.*
 
 Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sules)
 
 ---
 
-## 🛠️ Skills Overview
+## Skills Overview
 
-### 📊 Language Proficiency / Usage
+### Language Proficiency / Usage
 
 <style>
   .skill-bar-container { margin-bottom: 8px; font-size: 10px; } /* Reduced margin and font size */
@@ -66,7 +65,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 ### Project 1: Covid-19 Effects on Yellow Taxi in NYC
 
@@ -76,7 +75,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Utilized ML models including **1D Gaussian Mixture Model** and **Random Forest Regression**, along with **Clustering**.
 * Evaluated model performance using **MSE** and **MAE**.
 
-**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) *(Replace badges with actual URLs or just list: **Python, Scikit-learn, Pandas, Jupyter Notebook**)*
+**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) **Python, Scikit-learn, Pandas, Jupyter Notebook**)*
 
 [View Notebook](https://github.com/king-sules/Covid_Taxi/blob/main/Covid-19%20Taxi.ipynb)
 
@@ -91,7 +90,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Created dummy variables and distance categories to control for factors in the analysis.
 * Performed **multiple regression analysis** using **R** to determine correlations.
 
-**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) *(Replace badges or list: **Python, R, Geopy, GeoPandas, Pandas**)*
+**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
 [View Code Repository](https://github.com/king-sules/Nuclear_Matrix_Data) | [Read Thesis Paper](https://github.com/king-sules/Nuclear_Matrix_Data/blob/master/Final%20Thesis.pdf)
 
@@ -105,7 +104,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Focused on identifying the most affected countries during the early phase.
 * Visualized the spread and impact using **RStudio**.
 
-**Technologies Used:** ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white) *(Replace badges or list: **R, RStudio, Data Visualization**)*
+**Technologies Used:** ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white) 
 
 [View Code Repository](https://github.com/king-sules/Covid)
 
@@ -118,13 +117,13 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Visualized daily and monthly ride trends using **Python**.
 * Predicted future ride trends for both taxi and FHV sectors using Facebook's **fbprophet** library.
 
-**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-007afe?style=flat) *(Replace badges or list: **Python, SQL (PostgreSQL), Pandas, fbprophet**)*
+**Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Prophet](https://img.shields.io/badge/Prophet-007afe?style=flat)
 
 [View Code Repository](https://github.com/king-sules/Taxi)
 
 ---
 
-## ⚙️ Mechanical Engineering
+## Mechanical Engineering
 
 ### Project 5: Airplane Wing Vibration Analysis
 
@@ -135,7 +134,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Visualized results using **ANSYS** software.
 * Compiled findings into a comprehensive report using **LaTeX**.
 
-**Technologies Used:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Ansys](https://img.shields.io/badge/ANSYS-FFB71B?style=flat) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) *(Replace badges or list: **MATLAB, ANSYS, LaTeX**)*
+**Technologies Used:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Ansys](https://img.shields.io/badge/ANSYS-FFB71B?style=flat) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) 
 
 [View MATLAB Code](https://github.com/king-sules/Vibrations/blob/main/Multi_DOF_Response.m) | [Read Full Report (LaTeX PDF)](https://github.com/king-sules/Vibrations/blob/main/Vibration_Project%20(2).pdf)
 
@@ -147,7 +146,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 * Analyzed parameter effects and determined optimal settings using **Minitab**.
 * Documented the methodology and results in a formal report.
 
-**Technologies Used:** ![Minitab](https://img.shields.io/badge/Minitab-4C8F2F?style=flat) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) *(Replace badges or list: **Minitab, Design of Experiments (Taguchi), LaTeX**)*
+**Technologies Used:** ![Minitab](https://img.shields.io/badge/Minitab-4C8F2F?style=flat) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)
 
 [Read Full Report](https://github.com/king-sules/Vibrations/blob/main/Taguchi%20Project%20Tire%20Wear.pdf)
 
