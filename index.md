@@ -76,6 +76,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 **Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DSPy](https://img.shields.io/badge/DSPy-lightgrey?style=flat) ![Pydantic](https://img.shields.io/badge/Pydantic-%23e83d00.svg?style=flat&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%230047AB.svg?style=flat&logo=mlflow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
+<img width="200" alt="DSPy Documentation Snippet" src="https://dspy.ai/_static/logo-small.png">
 [View Notebook](Link-to-your-Jupyter-Notebook-on-GitHub)
 
 ### Project 2: Covid-19 Effects on Yellow Taxi in NYC
