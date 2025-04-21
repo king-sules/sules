@@ -67,7 +67,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ## Machine Learning
 
-### Project 1: DSPy-Powered Document Extraction with Gemini
+### DSPy-Powered Document Extraction with Gemini
 
 * Explored the use of **DSPy (Declarative Self-improving Python)** to programmatically optimize prompt engineering for **Google's Gemini model** in the context of extracting information from tax forms.
 * Developed a **Pydantic model** to ensure structured JSON output and defined a **DSPy signature** to guide the extraction process.
@@ -80,7 +80,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 **Technologies Used:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![DSPy](https://img.shields.io/badge/DSPy-lightgrey?style=flat) ![Pydantic](https://img.shields.io/badge/Pydantic-%23e83d00.svg?style=flat&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%230047AB.svg?style=flat&logo=mlflow&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 
-### Project 2: Covid-19 Effects on Yellow Taxi in NYC
+### Covid-19 Effects on Yellow Taxi in NYC
 
 <img width="650" alt="NYC Borough Taxi Pickups/Dropoffs" src="https://user-images.githubusercontent.com/54907087/142779263-b1ac2b05-a04d-4aea-a0d0-13323740f9e1.png">
 
@@ -94,7 +94,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ---
 
-### Project 2: Housing Prices vs. Nuclear Power Plants (Undergraduate Thesis)
+### Housing Prices vs. Nuclear Power Plants (Undergraduate Thesis)
 
 <img width="300" img height="300" alt="Map of Plymouth MA area" src="https://user-images.githubusercontent.com/54907087/140659135-7cc55f6b-087c-4d19-9b3c-298bfdbbee41.png">
 
@@ -109,9 +109,9 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ---
 
-## 📊 Data Analysis
+## Data Analysis
 
-### Project 3: Covid-19 Breakout Analysis
+### Covid-19 Breakout Analysis
 
 * Tracked and analyzed the initial Covid-19 outbreak (Dec 2019 - May 2020) using data from Johns Hopkins University.
 * Focused on identifying the most affected countries during the early phase.
@@ -123,7 +123,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ---
 
-### Project 4: Taxi vs. Uber/FHV Analysis in NYC
+### Taxi vs. Uber/FHV Analysis in NYC
 
 * Analyzed the impact of the Aug 2018 TLC policy change on yellow cab vs. For-Hire Vehicle (Uber/Lyft) ride volume in NYC.
 * Queried ride data using **PostgreSQL**.
@@ -138,7 +138,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ## Mechanical Engineering
 
-### Project 5: Airplane Wing Vibration Analysis
+### Airplane Wing Vibration Analysis
 
 <img width="451" alt="ANSYS Vibration Mode Shape" src="https://user-images.githubusercontent.com/54907087/143794858-40ba1d3a-aab5-4643-87a4-627a041bd47f.png">
 
@@ -153,7 +153,7 @@ Find me on: [LinkedIn](Your-LinkedIn-URL) | [GitHub](https://github.com/king-sul
 
 ---
 
-### Project 6: Design for Manufacturability (Tire Wear Optimization)
+### Design for Manufacturability (Tire Wear Optimization)
 
 * Applied the **Taguchi method** (Design of Experiments) to optimize tire design parameters (slip angle, tension strength, friction) for improved manufacturability and reduced wear.
 * Analyzed parameter effects and determined optimal settings using **Minitab**.
